@@ -16,7 +16,7 @@ Simply run `npm install` and `gulp build` from the root of the project.  This wi
 npm run start
 ```
 
-<h2>Libraries</h2>
+<h2>Technologies/Libraries</h2>
 
 * ES2015 (ES6)
 * Express
