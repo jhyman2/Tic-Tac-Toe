@@ -9,7 +9,7 @@ npm install -g gulp webpack
 
 <h3>Compiling</h3>
 
-Simply run `npm install` and `gulp build` from the root of the project.  This will compile client files into `/app/.
+Simply run `npm install` and `gulp build` from the root of the project.  This will compile client files into `/app/`.
 
 <h3>Start the app (redis-server must be installed globally as this will run redis-server)</h3>
 ```
