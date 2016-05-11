@@ -1,4 +1,4 @@
-# Tic Tac Toe Interview
+# Tic Tac Toe
 
 <h3>Dependencies</h3>
 You will need to have Node (6), Redis, Gulp, Webpack and installed on your system globally.  After installing Node, run the following commands.  Mac users should use Brew, and Linux users should use apt-get.
