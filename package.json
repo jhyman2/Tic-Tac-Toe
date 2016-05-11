@@ -1,0 +1,49 @@
+{
+  "name": "TicTacToe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe",
+  "scripts": {
+    "start": "redis-server & node src/server/index.js"
+  },
+  "author": "Jamison Hyman <jamison.hyman@gmail.com>",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-nodemon": "^2.0.6",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "redis": "^2.5.3",
+    "rimraf": "^2.5.2",
+    "run-sequence": "^1.1.5",
+    "socket.io": "^1.4.5",
+    "socket.io-client": "^1.4.5",
+    "socket.io-redis": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.0",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-es2015-node5": "^1.1.2",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.5.1",
+    "nodemon": "^1.4.1",
+    "rimraf": "^2.5.1",
+    "run-sequence": "^1.1.5",
+    "webpack": "^1.12.12"
+  }
+}
