@@ -27,5 +27,7 @@ npm run start
 * Socket.io
 * Webpack
 
+![SSS1](https://github.com/jhyman2/Tic-Tac-Toe/blob/master/assets/screenshot.png)
+
 <h2>Authors</h2>
 * [jhyman2](https://github.com/jhyman2)
