@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 <h3>Dependencies</h3>
-You will need to have Node (6), Redis, Gulp, and Webpack installed on your system globally.  After installing Node, run the following commands.  Mac users should use Brew, and Linux users should use apt-get.
+You will need to have Node (6), Redis, Gulp, and Webpack installed on your system globally.  After installing Node, run the following commands.  Mac users should use Brew, and Linux users should use apt-get for installing redis-server.
 
 ```
 npm install -g gulp webpack
