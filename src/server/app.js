@@ -126,7 +126,7 @@ const boardFilled = (gameMap, callback) => {
 
 // initializes board for the first time
 clearGameMap(() => {
-  console.log('*** Starting Tin Tac Toe ***');
+  console.log('*** Starting Tic Tac Toe ***');
 });
 
 // initializing the database with clean data
